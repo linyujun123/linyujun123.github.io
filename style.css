@@ -1,0 +1,23 @@
+a:hover{
+    color:black;
+}
+body{
+    display:flex;
+    flex-direction:column;
+}
+main{
+    display:flex;
+    flex:auto;
+}
+aside{
+    flex:1;
+}
+article{
+    flex:3;
+}
+img{
+    max-width:100%;
+}
+img.small{
+    width:100px;
+}
